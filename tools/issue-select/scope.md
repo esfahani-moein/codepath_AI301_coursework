@@ -1,14 +1,7 @@
 # Scope: where to look, and who is looking
 
-<!--
-This file is the skill's field of view. The rubric (rubric.md) decides
-whether an issue is GOOD; the scope decides which issues are candidates
-at all, and whose hands the issue would land in. It applies in live mode
-only: in eval mode the bundle is the whole world and this file is
-ignored.
-
-Two parts. Staff wrote the first; you write the second.
--->
+AI Open Source Capstone
+this is the repo for this task, Codepath assignment 1
 
 ## Where candidates come from
 
@@ -30,15 +23,10 @@ else in the rubric applies as written.
 
 ## Your fit profile
 
-<!-- YOU write this part: a few sentences about you. What languages and
-tools you have actually used, what you want to get better at, anything
-you want to avoid. The skill uses this only to RANK the issues your
-rubric accepts, never to change a verdict: fit cannot rescue an issue
-your rubric rejects, and cannot sink one it accepts. -->
-
+for this task,
 I work mostly in Python and am comfortable reading backend code,
 tests, and docs. I want to get better at contributing to an unfamiliar
 codebase end to end: reproducing a bug, making a focused fix, and
 getting a PR reviewed. I prefer bounded bug fixes or docs tasks over
 open-ended features, and I'd rather avoid pure DevOps/CI work this
-unit. <!-- personalize this: it's your profile -->
+unit. 

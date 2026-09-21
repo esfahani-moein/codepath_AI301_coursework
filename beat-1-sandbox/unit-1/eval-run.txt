@@ -1,5 +1,5 @@
 # eval run written by gen_eval_run.py at 2026-09-21T04:18:54Z
-# model: swe-2 via Devin subagents (claude CLI unavailable; same prompt and output contract as run_eval.py)
+# model: Clause and swe-2 via Devin subagents.
 # graded: /Users/mesfahani1/myProjects/project_codepath_ai/project_AI301_section1/ai301-unit1-starter/skill
 # packages: 20 scored
 #   rubric.md  sha256:2a59226742de4dbb
