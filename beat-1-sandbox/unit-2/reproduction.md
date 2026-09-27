@@ -1,12 +1,12 @@
 # Unit 2: Claim and Reproduce
 
-- GitHub username: <!-- TODO: put your GitHub username here — the comments are matched to you by it -->
+- GitHub username: esfahani-moein github
 - Issue: https://github.com/codepath/pathreview-ai301-fa26-s3/issues/53
   ("PII scrubber fails to redact parenthesized US phone numbers")
 
 ## Claim comment
 
-Link: <!-- paste the URL of your posted claim comment here -->
+Link: [Github](https://github.com/codepath/pathreview-ai301-fa26-s3/issues/53#issuecomment-5858419288)
 
 Posted text:
 
@@ -20,8 +20,9 @@ Posted text:
 > get. I'll report back either way.
 
 ## Repro comment
+ 
+Link: [Github](https://github.com/codepath/pathreview-ai301-fa26-s3/issues/53#issuecomment-5858436507)
 
-Link: <!-- paste the URL of your posted repro comment here -->
 
 Posted text:
 
