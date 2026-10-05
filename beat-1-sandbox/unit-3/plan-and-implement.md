@@ -5,7 +5,8 @@
 
 ## Plan comment
 
-- **Link:** <!-- paste the URL of your posted plan comment -->
+- **Link:** https://github.com/codepath/pathreview-ai301-fa26-s3/issues/53#issuecomment-6000254982
+
 
 Posted text:
 
